@@ -1,0 +1,348 @@
+id,kind,qtype,question,answer,pred,exact,normalized
+s037-00023,step,fastener_count,How many M4x10 flat head screws does this step use?,4,10.,False,False
+s037-00024,step,fastener_list,"Which screws, nuts or washers does this step use, and how many of each?",4 M4x10 flat head screws,"1, 2, 3, 4, 5, 6, 7, 8,",False,False
+s038-00025,step,fastener_count,How many M3x4 set screws does this step use?,2,2.,False,True
+s038-00026,step,fastener_list,"Which screws, nuts or washers does this step use, and how many of each?",2 M3x4 set screws,"2 screws, 2 nuts, 1 washer.",False,False
+s039-00027,step,fastener_count,How many M3x10 set screws does this step use?,2,2.,False,True
+s039-00028,step,fastener_list,"Which screws, nuts or washers does this step use, and how many of each?",2 M3x10 set screws,"M3x10 screws, nuts, and 3 of each.",False,False
+s040-00029,step,fastener_count,How many M4 X 20 socket head cap screws does this step use?,4,4.,False,True
+s040-00030,step,fastener_count,How many washers does this step use?,4,4.,False,True
+s040-00031,step,fastener_list,"Which screws, nuts or washers does this step use, and how many of each?",4 M4 X 20 socket head cap screws; 4 washers,"Install motor assembly base, and secure with (4) MX 20 and (4) MX 2",False,False
+s041-00032,step,fastener_count,How many M6x14 socket head cap screws does this step use?,4,18.,False,False
+s041-00033,step,fastener_list,"Which screws, nuts or washers does this step use, and how many of each?",4 M6x14 socket head cap screws,"Install 60T timing hub, pulley, and socket head cap screws, nuts, and washers.",False,False
+s042-00034,step,fastener_count,How many 4mm X 20 socket head cap screws does this step use?,4,2.,False,False
+s042-00035,step,fastener_list,"Which screws, nuts or washers does this step use, and how many of each?",4 4mm X 20 socket head cap screws,"3, 4, 5, 6, 7, 8, 9, 10",False,False
+s043-00036,step,fastener_count,How many 4mm X 20 socket head cap screws does this step use?,4,2.,False,False
+s043-00037,step,fastener_list,"Which screws, nuts or washers does this step use, and how many of each?",4 4mm X 20 socket head cap screws,"This step uses 4 screws, nuts, and washers.",False,False
+s045-00038,step,fastener_count,How many PG-21 gland nuts does this step use?,2,10.,False,False
+s045-00039,step,fastener_list,"Which screws, nuts or washers does this step use, and how many of each?",2 PG-21 gland nuts,"This step uses the green screws, nuts, and washers.",False,False
+s134-00079,step,tool,What tool or material does this step call for?,liquid electrical tape,Liquid electrical tape.,False,True
+s135-00080,step,tool,What tool or material does this step call for?,solder,Screwdriver.,False,False
+s136-00081,step,tool,What tool or material does this step call for?,heat shrink; solder,Blue wire.,False,False
+s139-00082,step,tool,What tool or material does this step call for?,heat shrink; solder,Soldering iron.,False,False
+s142-00083,step,fastener_count,How many M3x20 flat head screws does this step use?,6,6.,False,True
+s142-00084,step,fastener_list,"Which screws, nuts or washers does this step use, and how many of each?",6 M3x20 flat head screws,"Answer: 3.
+
+Step 1: Identify the screws, nuts, and washers.
+Step",False,False
+s144-00085,step,tool,What tool or material does this step call for?,grease,Spindle.,False,False
+s147-00086,step,fastener_count,How many M3x10 flat head screws does this step use?,4,4.,False,True
+s147-00087,step,fastener_list,"Which screws, nuts or washers does this step use, and how many of each?",4 M3x10 flat head screws,"Tension screws, nuts.",False,False
+s148-00088,step,fastener_count,How many M4x10 flat head screws does this step use?,4,4.,False,True
+s148-00089,step,fastener_list,"Which screws, nuts or washers does this step use, and how many of each?",4 M4x10 flat head screws,Answer: nuts.,False,False
+s149-00090,step,fastener_count,How many M3x14 cap head screws does this step use?,2,2.,False,True
+s149-00091,step,fastener_list,"Which screws, nuts or washers does this step use, and how many of each?",2 M3x14 cap head screws,"M3x14 screws, nuts.",False,False
+s152-00092,step,fastener_count,How many M4x20 socket head cap screws does this step use?,4,4.,False,True
+s152-00093,step,fastener_count,How many washers does this step use?,4,1.,False,False
+s152-00094,step,fastener_list,"Which screws, nuts or washers does this step use, and how many of each?",4 M4x20 socket head cap screws; 4 washers,Washers.,False,False
+s233-00150,step,fastener_count,How many M4x14 socket head cap screws does this step use?,1,1.,False,True
+s233-00151,step,fastener_list,"Which screws, nuts or washers does this step use, and how many of each?",1 M4x14 socket head cap screw,"This step uses screws, nuts, and a head cap screw.",False,False
+s239-00152,step,fastener_count,How many M4x18 flat head screws does this step use?,6,6.,False,True
+s239-00153,step,fastener_list,"Which screws, nuts or washers does this step use, and how many of each?",6 M4x18 flat head screws,Secure the main arm to JS housing using (6) M4x18 flat head screws.,False,False
+s240-00154,step,tool,What tool or material does this step call for?,grease,Taper.,False,False
+s242-00155,step,tool,What tool or material does this step call for?,grease,Screwdriver.,False,False
+s244-00156,step,fastener_count,How many M6x14 socket head cap screws does this step use?,1,1.,False,True
+s244-00157,step,fastener_list,"Which screws, nuts or washers does this step use, and how many of each?",1 M6x14 socket head cap screw,"1, 2, 3, 4, 5, 6, 7, 8,",False,False
+s245-00158,step,fastener_count,How many M4x5 set screws does this step use?,6,6.,False,True
+s245-00159,step,fastener_list,"Which screws, nuts or washers does this step use, and how many of each?",6 M4x5 set screws,"These screws, nuts, and washers all use screws, nuts, and washers.",False,False
+s246-00160,step,tool,What tool or material does this step call for?,drill; tap,M3 tap.,False,False
+s247-00161,step,tool,What tool or material does this step call for?,drill,Use 3mm drill bit to clear the rear (8) holes on a J5 side plate.,False,False
+s249-00162,step,fastener_count,How many M2.5x8 pan head screws does this step use?,2,2.,False,True
+s249-00163,step,fastener_list,"Which screws, nuts or washers does this step use, and how many of each?",2 M2.5x8 pan head screws,"This step uses screws, nuts, and washers.",False,False
+s250-00164,step,fastener_count,How many M3x14 philips head pan screws does this step use?,2,2.,False,True
+s250-00165,step,fastener_list,"Which screws, nuts or washers does this step use, and how many of each?",2 M3x14 philips head pan screws,"This step uses screws, nuts, and washers.",False,False
+s335-00198,step,tool,What tool or material does this step call for?,heat shrink; solder,Wire.,False,False
+s343-00199,step,tool,What tool or material does this step call for?,heat shrink; solder,Wire.,False,False
+t000-00215,doc,table_count,How many M2.5 x 6 Pan Head screw does the whole robot need?,2,26.,False,False
+t000-00219,doc,table_count,How many M3x10 Flat Head Screw does the whole robot need?,13,12 M3x10 Flat Head Screw.,False,False
+t000-00223,doc,table_count,How many M3x16 Socket Head Screw does the whole robot need?,4,24 M3x16 Socket Head Screw.,False,False
+t000-00227,doc,table_count,How many M3x3 Set Screw does the whole robot need?,5,12.,False,False
+t000-00231,doc,table_count,How many M3x6 Set Screw does the whole robot need?,7,24.,False,False
+t000-00235,doc,table_count,How many M4x10 Flat Head Screw does the whole robot need?,16,10.,False,False
+t000-00239,doc,table_count,How many M4x14 Socket Head Screw does the whole robot need?,1,24.,False,False
+t000-00243,doc,table_count,How many M4x45 Pan Head Screw does the whole robot need?,4,24.,False,False
+t000-00247,doc,table_count,How many M6x20 Socket Head Screw does the whole robot need?,3,26.,False,False
+s035-00268,step,action,Which way must the limit switch flat face?,toward rear,The limit switch must face toward the rear.,False,False
+s035-00269,step,part,"Which part's flat must face the rear, per the red lines?",limit switch,The left part's flat must face the rear.,False,False
+s040-00270,step,count,How many washers go with the motor assembly screws?,4,2.,False,False
+s040-00271,step,fastener,Which screws secure the motor assembly to the base?,M4 X 20 socket head cap screws,4mm MX 20 and 8mm MX 20 screws.,False,False
+s040-00272,step,spec,How many 3mm tension holes must face toward the back?,2,3.,False,False
+s040-00273,step,action,When should the motor assembly screws be fully tightened?,after belt is tensioned,After the belt is tensioned.,False,True
+s045-00274,step,count,How many gland nuts are installed into the base enclosure?,2,10.,False,False
+s045-00275,step,part,Which type of gland nut goes into the base enclosure?,PG-21,PG-2.,False,False
+s045-00276,step,part,Where are the PG-21 gland nuts installed?,base enclosure,In a base enclosure.,False,False
+s050-00277,step,part,Which driver receives the green pair of wire?,J2 driver,The driver on the right.,False,False
+s050-00278,step,spec,Which terminal does the solid green wire go to?,PUL,PUL.,False,True
+s050-00279,step,spec,Which terminal does the striped wire go to?,DIR,DIR terminal.,False,False
+s135-00331,step,action,What do you separate the encoder wires from?,the motor wires,The motor.,False,False
+s135-00332,step,spec,Which CAT5 pairs do the trimmed encoder wires align with?,brown and blue pairs,Brown and blue.,False,False
+s135-00333,step,action,What happens to the remainder encoder wires?,saved for chapters 3 and 4,They are soldered as they are.,False,False
+s140-00334,step,count,How many marker stripes go on each J2 wire wrap?,2,4.,False,False
+s140-00335,step,tool,What tool marks the stripes on the tape?,marker,Marker.,False,True
+s140-00336,step,part,Which cable's wires are wrapped along with the J2 motor wires?,J2 Cat6 cable,J2 motor wires.,False,False
+s145-00337,step,part,Which assembly is inserted into the J2 arm?,J3 spindle and bearing assembly,J3.,False,False
+s145-00338,step,joint,Which arm receives the J3 spindle and bearing assembly?,J2 arm,J2.,False,False
+s145-00339,step,joint,Which spindle is inserted in this step?,J3 spindle,J3.,False,False
+s150-00340,step,part,Which pulley goes on the J3 motor shaft?,Long Shoulder HTD-20 pulley,HTD-25 pulley.,False,False
+s150-00341,step,part,What must be installed on the motor shaft before the pulley?,the key,Key.,False,True
+s150-00342,step,action,What must the key align to?,the pulley keyway,Pulley.,False,False
+s235-00387,step,part,What is spun onto the J5 motor lead screw?,J5 housing assembly,Spin.,False,False
+s235-00388,step,part,Which part does the J5 housing assembly spin onto?,J5 motor lead screw,J5 housing.,False,False
+s235-00389,step,joint,Which joint's housing is spun on?,J5,J5 housing assembly.,False,False
+s240-00390,step,part,Which bearing is pressed onto the J6 housing side post?,#30203 taper roller bearing,Taper bearing.,False,False
+s240-00391,step,tool,What is added to taper bearings first?,small amount of grease,Grease.,False,False
+s240-00392,step,joint,Which housing has the side post?,J6 housing,Taper bearing.,False,False
+s245-00393,step,count,How many set screws go in the bearing cap?,6,3.,False,False
+s245-00394,step,fastener,Which set screws are installed in the bearing cap perimeter?,M4x5 set screws,6(M) Max56 set screws.,False,False
+s245-00395,step,action,How should J6 housing rotation feel after setting tension?,"no play, rotates smoothly",Smoothly.,False,False
+s250-00396,step,part,Which plate is installed in this step?,J5 side plate,J5 side plate.,False,True
+s250-00397,step,count,How many screws temporarily hold the side cover?,2,2.,False,True
+s250-00398,step,fastener,Which screws temporarily hold the side cover?,M3x14 philips head pan screws,M13x4 Phillips.,False,False
+s330-00444,step,part,Which wires and cables are routed through the right-side gland nut?,"J4, J5 & J6 wires/cables",The wires and cables are routed through the right-side gland nut.,False,False
+s330-00445,step,action,Which gland nut do the wires route through?,right-side gland nut,Right-side gland nut.,False,True
+s335-00446,step,spec,Which Dupont lead wire gets the J4 encoder brown wire?,first wire,The yellow arrow.,False,False
+s335-00447,step,spec,What size is the Dupont lead?,2.54mm,2.54 mm.,False,True
+s335-00448,step,action,What does the yellow arrow indicate?,heat shrink,The yellow arrow indicates the direction of heat.,False,False
+s340-00449,step,spec,Which terminal gets the solid blue wire?,20,Terminal 20.,False,False
+s340-00450,step,spec,Which terminal gets the stripe blue wire?,21,Terminal 2.,False,False
+s340-00451,step,action,What do you do to the blue wires after cutting to length?,strip wire ends,Connect the solid blue wire to terminal 20.,False,False
+s345-00452,step,spec,Which terminal gets the solid orange wire?,3rd terminal,4th.,False,False
+s345-00453,step,spec,Which terminal gets the orange stripe wire?,4th terminal,4th.,False,False
+s345-00454,step,tool,What tool verifies continuity to A or B?,Multimeter,Multimeter.,False,True
+d016-00478,doc,spec,How long a length of braided sleeve is listed?,3 meters,3 meters.,False,True
+d016-00479,doc,part,Which part is listed as 3 meters long?,braided sleeve,Braided sleeve.,False,True
+d036-00489,doc,name,What is the top left photo called?,J4 Limit Switch Mount,Limit Switch Mount.,False,False
+d036-00490,doc,name,What is the middle left photo called?,J6 Limit Contact,Black Filament.,False,False
+d036-00491,doc,where,Which photo position shows the J6 Limit Switch Mount?,middle right,Top.,False,False
+d036-00492,doc,name,What is the top right photo called?,J2 ARM COVER LOGO & J5 ARM COVER LOGO,Black.,False,False
+s036-00527,step,spec,What size key is installed into the J1 motor shaft?,3mm key,3mm.,False,False
+s036-00528,step,spec,What is the SKU of the J1 motor?,17HS15-1684D- EG10-AR4,17HHS15-1684.,False,False
+s036-00529,step,action,What should you verify about the key after installing it?,it is fully seated,The key is fully seated.,False,False
+s036-00530,step,part,From which company are the motor keys sometimes shipped separately?,Stepperonline,Sleepyline.,False,False
+s041-00531,step,part,What is installed onto the J1 spindle?,60T timing hub pulley,60T Timer Hub.,False,False
+s041-00532,step,count,How many M6x14 socket head cap screws secure the pulley?,(4),18.,False,False
+s041-00533,step,spec,Which belt is installed after the J1 pulley?,180XL037 belt,180L37 belt.,False,False
+s041-00534,step,fastener,Which screws secure the 60T timing hub pulley?,M6x14 socket head cap screws,4x50.,False,False
+s046-00535,step,count,How many lengths of Cat5 cable are cut?,(2),2.,False,True
+s046-00536,step,spec,What length are the Cat5 cable pieces cut to?,145mm,2 lengths of solid strand.,False,False
+s046-00537,step,spec,What type of Cat5 cable is used?,solid strand,STANDARD C455.,False,False
+s051-00538,step,joint,Into which driver is the brown wire pair inserted?,J3 driver,J.,False,False
+s051-00539,step,spec,Which terminal does the solid brown wire go to?,PUL,PUL.,False,True
+s051-00540,step,spec,Which terminal does the striped wire go to?,DIR,DIR terminal.,False,False
+s051-00541,step,count,How many pairs of brown wires are inserted in this step?,one,One.,False,True
+s136-00593,step,part,Which cable is the J2 encoder soldered to?,CAT5 cable,Blue wire.,False,False
+s136-00594,step,spec,Which cable wire does the encoder red wire connect to?,brown wire,Blue wire.,False,False
+s136-00595,step,spec,Which cable wire does the encoder black wire connect to?,white-brown stripe wire,Blue wire.,False,False
+s136-00596,step,spec,Which cable wire does the encoder blue wire connect to?,blue wire,Blue wire.,False,True
+s141-00597,step,part,Which bearing race is pressed into the J3 bearing cup?,#30204 bearing race,Press (1).,False,False
+s141-00598,step,count,How many #30204 bearing races are pressed into the cup?,(1),1.,False,True
+s141-00599,step,action,Where is the #30204 bearing race pressed?,into the J3 bearing cup,Press(1).,False,False
+s146-00600,step,part,Which bearing is inserted over the J3 spindle shaft?,#30204 bearing,J3 spindle shaft.,False,False
+s146-00601,step,joint,Which spindle shaft receives the #30204 bearing?,J3 spindle,J3.,False,False
+s146-00602,step,action,What do you hold in place while inserting the bearing?,the J3 spindle and bearing,Spindle.,False,False
+s151-00603,step,spec,What distance from motor mount surface to the top of the pulley is required?,33mm,33mm.,False,True
+s151-00604,step,fastener,Which set screw is tightened in the pulley collar?,M3x4 set screw,M3x2 screw.,False,False
+s151-00605,step,action,What do you adjust on the shaft before tightening the set screw?,the pulley depth,Adjust the pulley depth.,False,False
+s236-00663,step,part,Which assembly slides forward onto the J4 main tube?,J5 housing assembly,J4.,False,False
+s236-00664,step,action,How far does the J5 housing slide?,until fully seated against J4 timing hub,10 inches.,False,False
+s236-00665,step,action,What do you do if the housing does not slide on by hand?,polish J4 main shaft,Do not force or twist into.,False,False
+s241-00666,step,part,Which bearing washer is installed into the J6 bearing cap recess?,TRD1625 bearing washer,TRD1625.,False,False
+s241-00667,step,count,How many TRD1625 bearing washers are installed?,(1),1.,False,True
+s246-00668,step,tool,Which tap threads the front holes in the J5 side plate?,M3 tap,M3 tap.,False,True
+s246-00669,step,count,How many front holes in the J5 side plate are threaded?,(4),2.,False,False
+s246-00670,step,tool,What drill size is used to pre-drill or clean out the holes?,2.5mm drill,2.5mm.,False,False
+s246-00671,step,tool,Should oil or lubricant be used on the tap?,No,No.,False,True
+s251-00672,step,part,Which pulley is installed onto the J6 housing post?,XL15 pulley,XL.15.,False,False
+s251-00673,step,action,Should the set screws be tightened at this time?,"No, pulley should free spin",No.,False,False
+s251-00674,step,action,What do you do if the pulley does not slide on easily?,"clean shaft and pulley, polish the shaft",Do not install or tighten set screws at this time.,False,False
+s331-00718,step,action,What should you be careful of when routing wires through the gland nut?,not catching or pulling other wires,Be careful.,False,False
+s331-00719,step,part,Through which part are the wires routed into the enclosure?,gland nut,The enclosure.,False,False
+s336-00720,step,spec,Which terminal of the 2x12 block gets the J4 encoder GND wire?,2nd terminal,The J4 encoder GND wire.,False,False
+s336-00721,step,tool,What verifies continuity to the GND terminal?,Multimeter,Multimeter.,False,True
+s336-00722,step,spec,Which wire is the GND wire from the J4 encoder?,brown/stripe wire,J4.,False,False
+s336-00723,step,joint,Which joint's encoder GND wire is connected here?,J4,J4.,False,True
+s341-00724,step,count,How many J5 motor wires connect to the driver terminals?,(4),5.,False,False
+s341-00725,step,count,How many tape marks identify the J5 motor/cable wires?,5 marks,5.,False,False
+s341-00726,step,spec,Which wire color goes to the J5 driver A+ terminal?,BLACK,Green.,False,False
+s341-00727,step,spec,Which wire color goes to the J5 driver B- terminal?,BLUE,Red.,False,False
+s346-00728,step,spec,Which terminal does the solid green wire connect to?,terminal 30,Terminal 30.,False,True
+s346-00729,step,action,Which wire is trimmed because it will not be used?,white with green stripe wire,Green wire.,False,False
+s346-00730,step,action,What do you do to the green wire pair first?,untwist it,Unwind the green wire.,False,False
+d012-00757,doc,spec,What gauge is the flexible silicone wire?,20awg,2 meters.,False,False
+d012-00758,doc,spec,How many meters of each color are listed?,3.2 meters,"3, 2, 1.",False,False
+d012-00759,doc,spec,What colors is the 20awg silicone wire?,"Black, Red, Blue, Green","Black, Red, Blue, Green.",False,True
+d032-00765,doc,name,What is the top left part called?,J1 BASE ENCLOSURE REAR,Overview section.,False,False
+d032-00766,doc,name,What is the bottom left part called?,J1 BASE ENCLOSURE TRAY,Base.,False,False
+d032-00767,doc,where,Which photo position shows the J1 BASE ENCLOSURE FRONT?,top right,The J1 BASE ENCLOSURE FRONT.,False,False
+d032-00768,doc,where,Which photo position shows the J1 BASE ENCLOSURE FAN COVER?,bottom right,"The J1 BASE ENCLOSURE FAN COVER is shown in the image titled ""J1 BASE",False,False
+s037-00803,step,fastener,Which screws secure the J1 motor mount to the J1 motor?,M4x10 flat head screws,Flat head screws.,False,False
+s037-00804,step,count,How many M4x10 flat head screws secure the J1 motor mount?,(4),10.,False,False
+s037-00805,step,spec,What number on the J1 motor indicates its gear ratio?,"EG10, 10:1",1.,False,False
+s037-00806,step,action,Which side should the motor wires be oriented to?,right side,Right.,False,False
+s042-00807,step,count,How many screws secure the motor to the baseplate and should be slightly loose?,(4),2.,False,False
+s042-00808,step,fastener,Which screws secure the J1 motor to the baseplate?,4mm X 20 socket head cap screws,3M.,False,False
+s042-00809,step,fastener,What are used to tension the J1 belt?,M3x10 set screws,4mm X 2mm.,False,False
+s042-00810,step,count,How many M3x10 set screws tension the J1 belt?,(x2),3.,False,False
+s042-00811,step,action,What happens to the set screws at good moderate belt tension?,"fully threaded, no longer visible",When the set screws will be fully good moderate tension.,False,False
+s052-00812,step,part,Which driver gets the blue pair of wires?,J4 driver,J4.,False,False
+s052-00813,step,part,Which driver gets the green pair of wires?,J5 driver,J4.,False,False
+s052-00814,step,part,Which driver gets the brown pair of wires?,J6 driver,J5.,False,False
+s052-00815,step,action,Which driver terminal does the striped wire go to?,DIR terminal,DIR.,False,False
+s052-00816,step,action,Which driver terminal does the solid color wire go to?,PUL terminal,DIR.,False,False
+s137-00866,step,tool,What tape wraps the encoder wires?,EMI tape,EMI tape.,False,True
+s137-00867,step,spec,How long is the EMI tape cut?,7cm,7cm.,False,True
+s137-00868,step,part,What gets wrapped with EMI tape?,encoder wires,Long and wrap encoders.,False,False
+s142-00869,step,fastener,Which screws secure the J3 bearing cup and race to the J2 arm?,M3x20 flat head screws,6M3X20 flat head screws.,False,False
+s142-00870,step,count,How many M3x20 flat head screws secure the J3 bearing cup?,(6),6.,False,True
+s142-00871,step,part,What is secured to the end of the J2 arm?,J3 bearing cup and race,Secure J3 bearing cup and race to end of arm using 6M3X20 flat head screws.,False,False
+s147-00872,step,part,What is installed and secured with M3x10 flat head screws?,J3 spindle retainer,J3 spindle retainer and secure with M3x10 flat head screws.,False,False
+s147-00873,step,count,How many M3x10 flat head screws secure the J3 spindle retainer?,(4),4.,False,True
+s147-00874,step,action,What should you do to run the bearings in?,rotate the spindle several times,Rotate the spindle several times to run the bearings in.,False,False
+s152-00875,step,count,How many washers go with the J3 motor screws?,(4),1.,False,False
+s152-00876,step,fastener,Which screws secure the J3 motor assembly to the J2 arm?,M4x20 socket head cap screws,Washing washers.,False,False
+s152-00877,step,action,Which way should the wire pigtail face?,"left, toward the rear",To the left.,False,False
+s152-00878,step,action,How tight should the motor screws be left?,slightly loose,400/200.,False,False
+s237-00929,step,fastener,Which set screw secures the J5 housing to the J4 main tube?,M4x10 set screw,Main shaft.,False,False
+s237-00930,step,part,What does the M4x10 set screw secure?,J5 housing to J4 main tube,It secures the main shaft.,False,False
+s237-00931,step,action,What must the set screw do to ensure correct clocking?,fully thread into J4 main shaft hole,Carefully tighten the screw.,False,False
+s242-00932,step,spec,What needle roller bearing model is installed in the J6 bearing cap?,NTA1625,NTA 1625.,False,False
+s242-00933,step,spec,What is the inner diameter of the NTA1625 bearing?,"1"" ID",1/2 inch.,False,False
+s242-00934,step,count,How many NTA1625 bearings are installed?,(1),1.,False,True
+s242-00935,step,tool,What should be added to the needle bearings?,a small amount of grease,Small amount of grease.,False,True
+s247-00936,step,tool,Which drill bit clears the J5 side plate holes?,3mm drill bit,Use 3mm drill bit to clear the J5 side plate holes.,False,False
+s247-00937,step,count,How many rear holes on the J5 side plate are cleared?,(8),8.,False,True
+s247-00938,step,part,Which plate has holes to clear?,J5 side plate,Side plate.,False,False
+s332-00984,step,tool,What size cable tie secures the J4-6 sleeve to the J1-3 sleeve?,medium size cable tie,Medium size cable tie.,False,True
+s332-00985,step,action,Which sleeve should be on top?,J4-6 sleeve,The J4-6 sleeve should be on top.,False,False
+s332-00986,step,action,Where should the sleeve stay relative to the J1 gearbox?,"near top, just below black motor housing",On top and as shown.,False,False
+s337-00987,step,spec,Which terminal does the solid orange wire connect to on the 2x12 block?,3rd terminal,3.,False,False
+s337-00988,step,spec,Which terminal does the stripe wire connect to on the 2x12 block?,4th terminal,3.,False,False
+s337-00989,step,tool,What tool verifies continuity of the orange wires?,Multimeter,Multimeter.,False,True
+s337-00990,step,spec,Which terminal does the solid orange wire have continuity to?,A or +3.3v terminal,3.4.,False,False
+s342-00991,step,action,Where are the J5 CAT5 twisted pairs routed?,above J1 enclosure tray,Route the J5 CAT5 twisted pairs shown above.,False,False
+s342-00992,step,part,Which other wires are also routed up?,orange pair & green wire,J1.,False,False
+s342-00993,step,joint,For which limit switch were the orange pair and green wire run?,J5 limit switch,J5.,False,False
+s347-00994,step,spec,Which terminal does the solid blue wire connect to?,terminal 22,Terminal 22.,False,True
+s347-00995,step,spec,Which terminal does the stripe blue wire connect to?,terminal 23,Terminal 23.,False,True
+s347-00996,step,action,What do you do to the blue wire ends after cutting?,strip wire ends,Connect the solid blue wire to terminal 23.,False,False
+d008-01015,doc,spec,What are the TRD1625 thrust washer dimensions?,1.000x1.5625x0.125 inch,"125mm in height, 110mm in width, 100mm in depth.",False,False
+d008-01016,doc,count,How many TRD1625 thrust washers are listed?,Qty.(2),125.,False,False
+d008-01017,doc,spec,What are the HK1612 needle roller bearing dimensions?,16x22x12mm,12mm x 12mm x 12mm.,False,False
+d008-01018,doc,name,What is shown in the bottom right photo?,688Z (8x16x5mm) groove ball bearing,8888888888.,False,False
+d008-01019,doc,where,Which photo position shows the B1616 needle roller bearings?,top right,Q1.,False,False
+s038-01055,step,spec,What drive sprocket goes on the J1 gear motor shaft?,XL15 tooth 8mm bore,30000 rpm.,False,False
+s038-01056,step,count,How many M3x4 set screws secure the J1 drive sprocket?,2,2.,False,True
+s038-01057,step,spec,What distance is the lower pulley flange set at?,11mm,1mm.,False,False
+s043-01058,step,count,How many socket head cap screws secure the J1 motor to the baseplate?,4,4.,False,True
+s043-01059,step,fastener,Which screws secure the J1 motor to the baseplate?,4mm X 20 socket head cap screws,X 20 socket head.,False,False
+s043-01060,step,action,When do you tighten the motor screws?,Once belt has moderate tension,X 20.,False,False
+s048-01061,step,action,Which wire pairs are set aside in the J1 wiring step?,The orange pairs,"The ends of the blue, green, and brown pairs of wires.",False,False
+s048-01062,step,action,Which wire pairs do you strip the ends of?,"Blue, green and brown pairs","Blue, green, and brown.",False,False
+s053-01063,step,spec,What length are the solid orange wires cut to?,43mm,43.33.,False,False
+s053-01064,step,count,How many solid orange wires have their ends stripped?,5,5.,False,True
+s053-01065,step,action,What do you do with the stripe wires?,Do not cut them,Cut the solid orange wires into lengths of 43mm and 51mm.,False,False
+s138-01108,step,spec,What length are the wires cut to?,34cm,34 cm.,False,False
+s138-01109,step,spec,What wire gauge is cut?,20awg,30.,False,False
+s138-01110,step,spec,Which wire colors are cut?,"Red, Black, Blue & Green","Red, Black, Blue.",False,False
+s143-01111,step,spec,What length should the 8mm shaft be?,50mm,50mm long.,False,False
+s143-01112,step,spec,What size and length is the keystock?,"2x2mm, 50mm",50mm long.,False,False
+s143-01113,step,fastener,Which screw secures the shaft and key?,M3x4 set screw,M3x4 set.,False,False
+s143-01114,step,joint,Which joint spindle gets the keyed shaft?,J3,2mm.,False,False
+s148-01115,step,spec,What is the J3 motor SKU?,17HS15- 1684D-EG50-AR4,170.,False,False
+s148-01116,step,count,How many M4x10 flat head screws secure the J3 motor mount?,4,4.,False,True
+s148-01117,step,spec,What angle should the tension holes be to the motor wires?,90°,90°.,False,True
+s153-01118,step,part,Which pulley is installed on the J3 8mm shaft?,Short shoulder HTD-20 pulley,Short shoulder.,False,False
+s153-01119,step,spec,What shaft size does the pulley go on?,8mm,8mm.,False,True
+s233-01165,step,fastener,Which screw installs the bearing post and bearing?,M4x14 socket head cap screw,J5 tension screw.,False,False
+s233-01166,step,count,How many M4x14 screws are used?,1,1.,False,True
+s233-01167,step,part,What does the bearing post install onto?,J5 tension block,The bearing post and bearing.,False,False
+s233-01168,step,action,How tight is the cap screw left?,Slightly loose,Not tight.,False,False
+s238-01169,step,part,What is pressed into the J6 main bearing support arm?,#30203 taper roller bearing race,Taper roller.,False,False
+s238-01170,step,spec,Which bearing race number is pressed in?,#30203,#30203.,False,True
+s243-01171,step,spec,Which bearing washer is installed?,TRA1625,(032) thick.,False,False
+s243-01172,step,spec,How thick is the bearing washer?,".032""",032.,False,False
+s243-01173,step,part,Where does the bearing washer go?,J6 bearing cap recess,J6 bearing cap.,False,False
+s243-01174,step,count,How many TRA1625 washers are installed?,1,1.,False,True
+s248-01175,step,tool,What tool cleans up the J5 side plate?,Flat file,Recessed area.,False,False
+s248-01176,step,action,What do you remove from the recessed nose area?,Remaining build structure,Build structure.,False,False
+s248-01177,step,joint,Which joint's side plate is cleaned?,J5,Reverse side.,False,False
+s333-01225,step,count,How many marks identify the J4 motor wires?,4,4.,False,True
+s333-01226,step,spec,Which color wire connects to the A+ driver terminal?,BLACK,Black.,False,True
+s333-01227,step,spec,Which color wire connects to the B+ driver terminal?,RED,Green.,False,False
+s338-01228,step,action,Which wire pair is untwisted?,The green pair,Green.,False,False
+s338-01229,step,action,Which wire is trimmed because it is not used?,The green stripe wire,Green stripe.,False,False
+s338-01230,step,joint,Which joint's cable is this?,J4,The green pair of wires.,False,False
+s343-01231,step,action,Which wire pair is un-twisted?,The brown wire pair,The un-twisted the wire pair.,False,False
+s343-01232,step,spec,Which wire of the Dupont lead gets the J4 brown wire?,Second wire,The second wire on the red arrow.,False,False
+s343-01233,step,action,How is the brown wire joined to the lead?,Solder and heat shrink,The brown wire is joined to the lead by a red arrow.,False,False
+s348-01234,step,count,How many marks identify the J6 motor wires?,6,6.,False,True
+s348-01235,step,spec,Which color wire connects to the A- driver terminal?,GREEN,Green.,False,True
+s348-01236,step,spec,Which color wire connects to the B- driver terminal?,BLUE,Green.,False,False
+d004-01247,doc,name,What part is shown in the top left photo?,J4 MOTOR MOUNT,Motor Mount.,False,False
+d004-01248,doc,name,What part is shown in the middle left photo?,J5 HOUSING,J5 Bearing Post.,False,False
+d004-01249,doc,name,What part is shown in the top right photo?,J5 BELT CARRIER & J5 BELT CARRIER CLAMP,J5 Bearing Post.,False,False
+d004-01250,doc,where,Which photo position shows the J5 BEARING POST?,Middle right,J5 BEARING POST.,False,False
+d024-01262,doc,name,What part is listed?,2x12 power distribution terminal block,2x12 power distribution terminal block.,False,True
+d024-01263,doc,spec,What size is the power distribution terminal block?,2x12,2x12.,False,True
+d044-01271,doc,spec,What is the J6 gear head motor SKU?,14HS11-1004D- EGS20-AR4,J6.,False,False
+d044-01272,doc,action,What must you remove before installing the motor?,Gearbox decal and all residue,Decal and residue.,False,False
+d044-01273,doc,joint,Which joint uses this gear head motor?,J6,J6.,False,True
+s039-01293,step,count,How many M3x10 set screws go in the rear of the motor mount slots?,2,4.,False,False
+s039-01294,step,fastener,Which screws are installed in the rear of the motor mount slots?,M3x10 set screws,M3x10.,False,False
+s039-01295,step,action,Where are the M3x10 set screws installed?,rear of motor mount slots,In the rear of the motor.,False,False
+s044-01296,step,part,Which assembly is installed onto the enclosure assembly?,J1 base assembly,J1.,False,False
+s044-01297,step,action,What does the 3D printed base interlock with?,the enclosure,The enclosure.,False,True
+s044-01298,step,action,What kind of surface should the robot and enclosure stay on?,flat work surface,Flat work surface.,False,True
+s049-01299,step,joint,Which driver receives the blue pair of wire in this step?,J1 driver on the far left,Driver 1.,False,False
+s049-01300,step,spec,Which terminal does the solid blue wire go to?,PUL,PUL.,False,True
+s049-01301,step,spec,Which terminal does the striped wire go to?,DIR,DIR terminal.,False,False
+s049-01302,step,spec,What color is the pair of wire inserted into the J1 driver?,blue,Blue.,False,True
+s054-01303,step,count,How many lengths of solid color orange wire are installed?,5,5.,False,True
+s054-01304,step,spec,Which terminal is jumpered from one driver to the next?,OPTO,The OPTO terminal.,False,False
+s054-01305,step,count,Across how many drivers is the OPTO terminal jumpered?,6,6.,False,True
+s054-01306,step,spec,What color are the jumper wires between the drivers?,solid color orange,Red.,False,False
+s139-01352,step,spec,How long are the extension wires soldered to the J2 motor wires?,34cm,34cm.,False,True
+s139-01353,step,tool,What do you use to join the extension wires to the J2 motor wires?,solder and heat shrink,34cm long extension wires.,False,False
+s139-01354,step,action,How do you match the wire colors?,red goes to red,Be sure to match colors so that the red goes to red and the green goes to red.,False,False
+s139-01355,step,part,Which cable should match the extended J2 motor wires in length?,Cat6 cable for J2,1/2 J2 cable.,False,False
+s144-01356,step,part,Which bearing is installed between the two thrust washers?,AXK3552 bearing,A3552.,False,False
+s144-01357,step,part,Which thrust washer is installed on the J3 spindle?,AS3552,A3552.,False,False
+s144-01358,step,tool,What should you add to the needle bearings?,small amount of grease,Grease.,False,False
+s144-01359,step,joint,Which spindle receives the thrust washers and bearing?,J3 spindle,A3,False,False
+s149-01360,step,count,How many M3x14 cap head screws go into the tension slot holes?,2,2.,False,True
+s149-01361,step,fastener,Which screws go into the tension slot holes on the J3 motor mount?,M3x14 cap head screws,M3x14.,False,False
+s149-01362,step,action,Where are the M3x14 cap head screws installed?,tension slot holes on J3 motor mount,On a J3 motor mount.,False,False
+s234-01423,step,part,Which bearing is installed in the end of the J5 housing?,688Z bearing,6992.,False,False
+s234-01424,step,fastener,Which screw secures the 688Z bearing?,M3x6 set screw,Set screw.,False,False
+s234-01425,step,action,Where is the 688Z bearing installed?,end of J5 housing,In end of 5J housing.,False,False
+s239-01426,step,part,Which part is secured to the J5 housing?,J6 main bearing arm,Secure J5 main bearing arm to J5 housing.,False,False
+s239-01427,step,count,How many M4x18 flat head screws are used?,6,2.,False,False
+s239-01428,step,fastener,Which screws secure the J6 main bearing arm?,M4x18 flat head screws,M4x18.,False,False
+s239-01429,step,joint,To which housing is the J6 main bearing arm secured?,J5 housing,J6 housing.,False,False
+s244-01430,step,action,From which side is the J6 housing installed?,left side,Left.,False,False
+s244-01431,step,action,From which side is the J6 bearing cap installed?,right,Left.,False,False
+s244-01432,step,count,How many M6x14 socket head cap screws secure the bearing cap?,1,1.,False,True
+s244-01433,step,fastener,Which screw secures the bearing cap to the J6 housing?,M6x14 socket head cap screw,M14 screw.,False,False
+s249-01434,step,part,Which limit switch is secured to the J5 side cover?,KW12 limit switch,Secure KW12 limit switch.,False,False
+s249-01435,step,count,How many M2.5x8 pan head screws secure the limit switch?,2,2.,False,True
+s249-01436,step,fastener,Which screws secure the KW12 limit switch?,M2.5x8 pan head screws,"M2,5x2.8 pan head screws.",False,False
+s249-01437,step,action,How should the red button be oriented?,down orientation,To the right.,False,False
+s249-01438,step,action,How should the NC terminal be oriented?,up position,In the up position.,False,False
+s329-01491,step,action,Where is the complete harness inserted?,J2 wireway,Into wire harness.,False,False
+s329-01492,step,count,How many small cable ties secure the harness to the wireway?,4,4.,False,True
+s329-01493,step,spec,What color arrows mark the cable tie locations?,red,Red.,False,True
+s344-01494,step,spec,Which wire is routed to the 2x12 terminal block?,brown/stripe wire,The wire from the J5 connector is routed to the 2x12 terminal block.,False,False
+s344-01495,step,spec,Which terminal does the brown/stripe wire connect to?,2nd terminal on top row,The 2x12 terminal.,False,False
+s344-01496,step,part,What is the brown/stripe wire from the J5 encoder?,GND wire,The brown/stripe wire from the J5 encoder.,False,False
+s344-01497,step,tool,What tool verifies continuity to the B or GND terminal?,Multimeter,The wire.,False,False
+d000-01508,doc,name,What is the part in the top left photo called?,J1 BASE PLATE,JI Base Plate.,False,False
+d000-01509,doc,name,What is the part in the bottom left photo called?,J1 SPINDLE,J1 Spindle.,False,True
+d000-01510,doc,where,Which photo position shows the J1 PLATFORM?,bottom right,Right.,False,False
+d000-01511,doc,where,Which photo position shows the J1 TURRET HOUSING?,top right,Top.,False,False
+d020-01525,doc,part,What part is shown?,USB-C 90 degree Keystone Jack,USB-C 90 degree.,False,False
+d020-01526,doc,count,How many USB-C Keystone Jacks are needed?,1,2.,False,False
+d020-01527,doc,spec,What angle is the USB-C Keystone Jack?,90 degree,90 degrees.,False,False
+d040-01540,doc,spec,What is the J2 gear head motor SKU?,23HS22-2804D- YGS50-AR4,23HSZ22804D.,False,False
+d040-01541,doc,joint,Which joint uses this gear head motor?,J2,HEX KEY Wrench.,False,False
+d040-01542,doc,tool,What tool checks the coupler inside the gearbox?,hex key wrench,Check and make sure the coupler is tight.,False,False
+d040-01543,doc,action,What do you remove from the side of the gearbox?,small plastic plug,Small plastic plugs.,False,False

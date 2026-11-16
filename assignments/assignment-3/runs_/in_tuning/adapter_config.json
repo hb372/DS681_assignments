@@ -1,0 +1,16 @@
+{
+  "auto_mapping": null,
+  "base_model_name_or_path": "HuggingFaceTB/SmolVLM-256M-Instruct",
+  "exclude_modules": null,
+  "inference_mode": true,
+  "modules_to_save": null,
+  "peft_type": "LN_TUNING",
+  "peft_version": "0.21.3",
+  "revision": null,
+  "target_modules": [
+    "norm",
+    "input_layernorm",
+    "post_attention_layernorm"
+  ],
+  "task_type": "CAUSAL_LM"
+}

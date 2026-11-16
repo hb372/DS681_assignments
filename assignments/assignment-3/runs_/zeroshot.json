@@ -1,0 +1,1 @@
+{"method": "zeroshot", "trainable": 0, "peak_gib": 0.0, "train_min": 0.0, "checkpoint_mb": 0.0, "losses": [], "settings": {"dataset": "aegean-ai/ar4-assembly-vqa", "epochs": 2, "lr": 0.0002, "accum": 4, "image_edge": 512, "train_limit": null, "test_limit": null}, "code": null}
